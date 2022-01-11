@@ -1,4 +1,4 @@
 Resume
 ======
 
-Resume and Cover Letter
+Resume
